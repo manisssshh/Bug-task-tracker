@@ -22,10 +22,6 @@ This project is a **bug/task tracker** built with **React** and **Tailwind CSS**
 
 - **Node.js** and **npm** installed on your system.
 
-### Steps:
-
-1. Clone this repository:
-
 ```bash
 git clone https://github.com/manisssshh/Bug-task-tracker.git
 
