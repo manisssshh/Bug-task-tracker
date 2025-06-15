@@ -27,5 +27,6 @@ This project is a **bug/task tracker** built with **React** and **Tailwind CSS**
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/bug-task-tracker.git
+git clone https://github.com/manisssshh/Bug-task-tracker.git
+
 ```
